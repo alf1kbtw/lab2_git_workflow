@@ -23,5 +23,6 @@ int main() {
 
   
     run_ui(); 
+    // Финал работы
     return 0;
 }
