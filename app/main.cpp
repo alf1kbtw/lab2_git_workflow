@@ -12,7 +12,7 @@ int main() {
 
     log_init(); 
 
-    std::string path;
+    std::string path_to_file;
     std::cout << "=== Обновленный интерфейс ===";
     std::getline(std::cin, path);
 
