@@ -1,0 +1,19 @@
+# ninja log v7
+42	558	8019312834052476	app/CMakeFiles/text_analyzer.dir/main.cpp.obj	47c15ec426d457e
+26	593	8019312833889601	modules/logger/CMakeFiles/logger.dir/src/logger.cpp.obj	ebf83adcbe29e39f
+32	604	8019312833953629	modules/user_interface/CMakeFiles/user_interface.dir/src/ui.cpp.obj	edd66b2537d7d5e
+22	613	8019312833848310	modules/data_processor/CMakeFiles/data_processor.dir/src/data_processor.cpp.obj	c7f5c787cb88dd60
+594	740	8019312839568323	modules/logger/liblogger.a	5a726f93399a4182
+613	751	8019312839761268	modules/data_processor/libdata_processor.a	2a6c89edb2fdd9f3
+752	885	8019312841152568	modules/user_interface/libuser_interface.a	76edc08e7a5cb33b
+888	1050	8019312842507942	app/text_analyzer.exe	910e63ae570fb6
+39	1400	8019312834013968	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	b1bb6557681726
+46	1494	8019312834090913	tests/CMakeFiles/run_tests.dir/test_processor.cpp.obj	73d173844332aa2c
+51	1633	8019312834135963	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	36eae56e72e80191
+36	2535	8019312833979463	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	201ff26bd6f3a6b7
+29	5200	8019312833917656	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	eec4bf7a2d189446
+5202	5377	8019312885644930	lib/libgtest.a	6d205150bb04ac98
+5383	5471	8019312887457442	lib/libgtest_main.a	98f21137f5b8f493
+5377	5489	8019312887401047	lib/libgmock.a	cb0289a3f25e5a11
+5489	5572	8019312888512593	lib/libgmock_main.a	217f8308931b590f
+5471	5681	8019312888342171	tests/run_tests.exe	531cd5a5220ab0dc

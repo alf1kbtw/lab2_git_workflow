@@ -1,0 +1,21 @@
+# ninja log v7
+2	56	8019312762845547	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	e2e6044dd3bc790f
+2	56	8019312762845547	C:/Users/alf00/OneDrive/Desktop/LAB1_TEMPLATE/LAB1_TEMPLATE/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	e2e6044dd3bc790f
+56	1655	8019312778833437	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	983172d69d32e4ae
+56	1655	8019312778833437	C:/Users/alf00/OneDrive/Desktop/LAB1_TEMPLATE/LAB1_TEMPLATE/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	983172d69d32e4ae
+1656	1717	8019312779454596	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	9175f83c19d41832
+1656	1717	8019312779454596	C:/Users/alf00/OneDrive/Desktop/LAB1_TEMPLATE/LAB1_TEMPLATE/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	9175f83c19d41832
+1717	1773	8019312780014861	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	9eb6309387aead80
+1717	1773	8019312780014861	C:/Users/alf00/OneDrive/Desktop/LAB1_TEMPLATE/LAB1_TEMPLATE/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	9eb6309387aead80
+1773	1829	8019312780571965	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	b523e615e1005b23
+1773	1829	8019312780571965	C:/Users/alf00/OneDrive/Desktop/LAB1_TEMPLATE/LAB1_TEMPLATE/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	b523e615e1005b23
+1829	1884	8019312781120232	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	4be1dde3fa2bb55
+1829	1884	8019312781120232	C:/Users/alf00/OneDrive/Desktop/LAB1_TEMPLATE/LAB1_TEMPLATE/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	4be1dde3fa2bb55
+1884	1945	8019312781718561	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a99d7d0cb116ca72
+1884	1945	8019312781718561	C:/Users/alf00/OneDrive/Desktop/LAB1_TEMPLATE/LAB1_TEMPLATE/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a99d7d0cb116ca72
+1945	2012	8019312782401748	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	82e83d209c7a555d
+1945	2012	8019312782401748	C:/Users/alf00/OneDrive/Desktop/LAB1_TEMPLATE/LAB1_TEMPLATE/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	82e83d209c7a555d
+2012	2103	8019312783298226	CMakeFiles/googletest-populate-complete	8c9e72f3d6f3dcff
+2012	2103	8019312783298226	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8c9e72f3d6f3dcff
+2012	2103	8019312783298226	C:/Users/alf00/OneDrive/Desktop/LAB1_TEMPLATE/LAB1_TEMPLATE/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	8c9e72f3d6f3dcff
+2012	2103	8019312783298226	C:/Users/alf00/OneDrive/Desktop/LAB1_TEMPLATE/LAB1_TEMPLATE/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8c9e72f3d6f3dcff
