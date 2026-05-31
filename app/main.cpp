@@ -13,7 +13,7 @@ int main() {
     log_init(); 
 
     std::string path;
-    std::cout << "Введите путь к текстовому файлу: ";
+    std::cout << "=== Обновленный интерфейс ===";
     std::getline(std::cin, path);
 
     if (path.empty()) {
